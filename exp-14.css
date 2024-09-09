@@ -1,0 +1,20 @@
+*{
+    color: antiquewhite;
+}
+.radha{
+        width: 0px;
+        height: 0px; 
+        border-left: 50px solid transparent;
+        border-right: 50px solid transparent; 
+        border-bottom: 50px solid red;
+        margin: 0px 75px ;
+      }
+
+.satya{
+    width: 120px;
+    height: 120px;
+    border:2px solid rgb(117, 0, 128);
+    margin:0px 50px; 
+    background-color: cyan;
+}
+
