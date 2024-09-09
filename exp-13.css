@@ -1,0 +1,28 @@
+*{
+    color: antiquewhite;
+}
+.radha{
+        width: 0px; 
+        height: 0px; 
+        border-left: 100px solid transparent;
+        border-right: 100px solid transparent; 
+        border-bottom: 100px solid red;
+        margin: 0px 35px ;
+      }
+
+.satya{
+        width: 0px; 
+        height: 0px; 
+        border-left: 100px solid transparent;
+        border-right: 100px solid transparent; 
+        border-bottom: 100px solid red;
+        margin: 0px 100px ;
+}
+.sai{
+    width: 0px; 
+    height: 0px; 
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent; 
+    border-bottom: 100px solid cyan;
+    margin: 0px 135px ;
+}
